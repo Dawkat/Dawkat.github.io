@@ -1,0 +1,18 @@
+img{
+    border-radius: 100px;
+    height: 300px;
+}
+body{
+    background-color: lightseagreen;
+}
+h1{
+    color: whitesmoke;
+}
+h2{
+    color: whitesmoke;
+}
+p{
+    color: whitesmoke;
+    margin-left: 100px;
+    font-size: 20px;
+}

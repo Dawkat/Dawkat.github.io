@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(20, 190, 154);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+h1{
+    color: whitesmoke;
+}
+h2{
+    margin-left: 70px;
+    background-color: rgb(9,201,175);
+}
+img{
+    border-radius: 7px;
+}
